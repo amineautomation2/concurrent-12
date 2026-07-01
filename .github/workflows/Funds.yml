@@ -1,4 +1,4 @@
-name: iWeb Workflow
+name: Willis Owen Workflow
 
 on:
   workflow_call:
